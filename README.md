@@ -1,2 +1,4 @@
 # Meu-primeiro-Repo
-Meu primeiro repsitorio da faculdade
+Meu primeiro repositorio da faculdade
+
+estou alterando no remoto
